@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Card Presentation</string>
+    <string name="name">Gustavo Vila</string>
+    <string name="role">Android Developer</string>
+    <string name="phone_number">+51 987654321</string>
+    <string name="email">gustavo.vila@gmail.com</string>
+</resources>
